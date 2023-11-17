@@ -34,7 +34,7 @@ const Body = () => {
                 {/* destructuring */}A flower, sometimes known as a bloom or blossom
                 is the reproductive structure found in flowering plants (plants of the division Angiospermae). 
                 Flowers produce gametophytes, which in flowering plants consist of a few haploid cells that produce gametes. The "male" gametophyte, which produces non-motile sperm, is enclosed within pollen grains; the "female" gametophyte is contained within the ovule. When pollen from the anther of a flower is deposited on the stigma, this is called pollination
-                <p>likes: {likes}</p>
+                <p>likess: {likes}</p>
                 <button onClick={count}>Like</button>
             </div>
             <div style={{ paddingTop: '50px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
