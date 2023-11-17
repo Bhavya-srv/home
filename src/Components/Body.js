@@ -44,8 +44,7 @@ const Body = () => {
                 <button onClick={reset}>Reset</button>
             </div>
             <div style={{ paddingTop: '50px', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
-                {/* pass down url link in url attribuite */}
-                <ReactPlayer url={'https://www.youtube.com/watch?v=RzVvThhjAKw&ab_channel=RelaxationFilm'} height={200} controls />
+                <ReactPlayer url={'https://www.youtube.com/watch?v=pZVdQLn_E5w&ab_channel=NextObserver'} height={200} controls />
                 <div>
                     <p>I like this {fruits[index].fruit}</p>
                     <p>Dandelions by Ruth B. </p>
