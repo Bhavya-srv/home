@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "bhavi",
+      "completed": false,
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
